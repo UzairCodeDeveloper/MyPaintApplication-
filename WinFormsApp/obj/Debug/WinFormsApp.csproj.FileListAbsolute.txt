@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\bin\Debug\WinFormsApp.exe.config
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\bin\Debug\WinFormsApp.exe
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\bin\Debug\WinFormsApp.pdb
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\obj\Debug\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\obj\Debug\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\obj\Debug\WinFormsApp.exe
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\obj\Debug\WinFormsApp.pdb
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\obj\Debug\WinFormsApp.Form1.resources
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\obj\Debug\WinFormsApp.PatientNewRecordForm.resources
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\obj\Debug\WinFormsApp.MainForm.resources
+C:\Users\Admin\source\repos\FirstAppSecB\WinFormsApp\obj\Debug\WinFormsApp.PatientForm.resources
